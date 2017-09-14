@@ -1,26 +1,7 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://sevenwestmedia.visualstudio.com/Inferno/_git/Services.Component" />
-          <option name="serverUri" value="https://sevenwestmedia.visualstudio.com" />
-          <option name="userId" value="a0da4be8-a4a0-6836-8106-511d9c4c0e7b" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;a741be3a-6a13-4e45-a0ec-6720a94fa6fa&quot;,&quot;name&quot;:&quot;sevenwestmedia&quot;,&quot;url&quot;:&quot;https://sevenwestmedia.visualstudio.com/_apis/projectCollections/a741be3a-6a13-4e45-a0ec-6720a94fa6fa&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;143761b5-65a5-41a7-9691-ecb3a459bb6f&quot;,&quot;name&quot;:&quot;Inferno&quot;,&quot;revision&quot;:210,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://sevenwestmedia.visualstudio.com/_apis/projects/143761b5-65a5-41a7-9691-ecb3a459bb6f&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;1757fe1b-a44c-485e-ab2d-99235823246f&quot;,&quot;name&quot;:&quot;Services.Component&quot;,&quot;remoteUrl&quot;:&quot;https://sevenwestmedia.visualstudio.com/Inferno/_git/Services.Component&quot;,&quot;url&quot;:&quot;https://sevenwestmedia.visualstudio.com/_apis/git/repositories/1757fe1b-a44c-485e-ab2d-99235823246f&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;143761b5-65a5-41a7-9691-ecb3a459bb6f&quot;,&quot;name&quot;:&quot;Inferno&quot;,&quot;revision&quot;:210,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://sevenwestmedia.visualstudio.com/_apis/projects/143761b5-65a5-41a7-9691-ecb3a459bb6f&quot;}}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://sevenwestmedia.visualstudio.com/Inferno/_git/Services.Query" />
-          <option name="serverUri" value="https://sevenwestmedia.visualstudio.com" />
-          <option name="userId" value="a0da4be8-a4a0-6836-8106-511d9c4c0e7b" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;a741be3a-6a13-4e45-a0ec-6720a94fa6fa&quot;,&quot;name&quot;:&quot;sevenwestmedia&quot;,&quot;url&quot;:&quot;https://sevenwestmedia.visualstudio.com/_apis/projectCollections/a741be3a-6a13-4e45-a0ec-6720a94fa6fa&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;143761b5-65a5-41a7-9691-ecb3a459bb6f&quot;,&quot;name&quot;:&quot;Inferno&quot;,&quot;revision&quot;:228,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://sevenwestmedia.visualstudio.com/_apis/projects/143761b5-65a5-41a7-9691-ecb3a459bb6f&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;07b58a80-0127-477d-9af6-f09f18181bb9&quot;,&quot;name&quot;:&quot;Services.Query&quot;,&quot;remoteUrl&quot;:&quot;https://sevenwestmedia.visualstudio.com/Inferno/_git/Services.Query&quot;,&quot;url&quot;:&quot;https://sevenwestmedia.visualstudio.com/_apis/git/repositories/07b58a80-0127-477d-9af6-f09f18181bb9&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;143761b5-65a5-41a7-9691-ecb3a459bb6f&quot;,&quot;name&quot;:&quot;Inferno&quot;,&quot;revision&quot;:228,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://sevenwestmedia.visualstudio.com/_apis/projects/143761b5-65a5-41a7-9691-ecb3a459bb6f&quot;}}" />
-        </ServerContextState>
-      </array>
+      <array />
     </option>
     <option name="properties">
       <array>
